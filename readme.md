@@ -1,2 +1,2 @@
 # @evantsai/tiny
-(https://github.com/caixudong1223/tiny.git)
+[![install size](https://packagephobia.now.sh/badge?p=@evantsai/tiny)](https://packagephobia.now.sh/result?p=@evantsai/tiny)
